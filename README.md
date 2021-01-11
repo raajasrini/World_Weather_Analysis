@@ -32,8 +32,8 @@ This new assignment consists of three technical analyses with the following deli
 * The latitude and longitude pairs for each of the four cities are retrieved.
 * A directions layer map between the cities and the travel map is created and uploaded as [WeatherPy_travel_map](https://github.com/raajasrini/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png%20.png).
 * A DataFrame that contains the four cities on the itinerary is created.
-* A marker layer map with a pop-up marker for the cities on the itinerary is created, and it is uploaded as [WeatherPy_travel_map_markers](https://github.com/raajasrini/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png). Each marker has the following information:
- * Hotel name
- * City
- * Country
- * Current weather description with the maximum temperature
+* A marker layer map with a pop-up marker for the cities on the itinerary is created, and it is uploaded as [WeatherPy_travel_map_markers](https://github.com/raajasrini/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png).Each marker has the following information:
+   * Hotel name
+   * City
+   * Country
+   * Current weather description with the maximum temperature
